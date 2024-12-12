@@ -53,6 +53,7 @@ This script provides a simple UI for speech-to-text functionality:
 1. Attach this script to a GameObject in your scene.
 2. Assign references for `startButton`, `stopButton`, and `TextMeshProUGUI` text components in the Inspector.
 3. Run the scene, and use the buttons to start/stop recording.
+![SpeechDemo](https://github.com/user-attachments/assets/7ac8f6b4-c83b-4f3d-a50f-ee8941c1794a)
 
 ### `SpiderControllerWithSpeech.cs`
 This script demonstrates speech-based control of a spider object:
@@ -67,4 +68,5 @@ This script demonstrates speech-based control of a spider object:
 2. Assign references for `InactiveMaterial`, `GazedAtMaterial`, `RedMaterial`, and the Animator in the Inspector.
 3. Use voice commands while interacting with the object.
 
+![SpeechArañaDemo2](https://github.com/user-attachments/assets/1729f9b0-3261-4d61-9143-219d4bb86393)
 
