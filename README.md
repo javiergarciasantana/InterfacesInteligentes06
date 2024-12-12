@@ -1,6 +1,10 @@
 # InterfacesInteligentes06
 
-# Speech Recognition and Interaction with Unity
+# Speech Recognition and Interaction with Unity(GROUP VII)
+- **Authors**
+  -Ibai Heras Rodrigálvarez
+  -Javier García Santana
+  -Roberto Jesús Pérez Medina
 
 This repository contains two Unity scripts demonstrating the integration of speech recognition using the HuggingFace API for interactive functionalities. Both examples showcase capturing audio via a microphone, processing it, and performing actions based on recognized speech.
 
