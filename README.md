@@ -27,7 +27,7 @@ This repository contains two Unity scripts demonstrating the integration of spee
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/javiergarciasantana/InterfacesInteligentes06.git
    ```
 
 2. Open the project in Unity.
